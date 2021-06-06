@@ -9,15 +9,25 @@ We think, for modern games it's best to use quick and painless server-side match
 Below, we will explain the options and things to keep in mind if you roll your own. 
 
 CONTENT:
+
 . Matchmaking Checklist
+
 . Random matchmaking 
+
 . No So Random Matchmaking 
+
 . Play with Your Friends
+
 . Lobbies 
+
   . Default Lobby Type 
+  
   . SQL Lobby Type 
+  
   . Asynchronous Random Lobby Type 
+  
   . Lobby Type Comparison 
+  
 . Other Matchmaking Options
 
 
