@@ -20,13 +20,13 @@ CONTENT:
 
 . Lobbies 
 
-  . Default Lobby Type 
+     . Default Lobby Type 
   
-  . SQL Lobby Type 
+     . SQL Lobby Type 
   
-  . Asynchronous Random Lobby Type 
+     . Asynchronous Random Lobby Type 
   
-  . Lobby Type Comparison 
+     . Lobby Type Comparison 
   
 . Other Matchmaking Options
 
